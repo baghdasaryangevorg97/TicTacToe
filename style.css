@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+}
+.main {
+width: 120px;
+height: 40px;
+display: grid;
+grid-template-columns: 40px 40px 40px;
+border: solid;
+}
+.child {
+border:solid;
+background-color: yellow;
+}
+.but{
+background-color:black;
+color: yellow;
+margin-left: -100px;
+
+}
